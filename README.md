@@ -69,7 +69,6 @@ CounterIntelCTI/
 │   ├── Discord Channels List.md                          # Red team, DFIR, and CTF Discord communities
 │   └── Reddit Threat Hunting & Discussion Communities.md # Technical CTI, NetSec, and Blue Team subreddits
 │
-├── check_darkint_tor.py                                  # Automated Tor SOCKS proxy .onion link verifier
 └── README.md
 ```
 

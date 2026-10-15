@@ -1,40 +1,37 @@
-<h1 align="center">🕵️ Discord Channels List</h1>
+<h1 align="center">💬 Cybersecurity, CTI & OSINT Discord Communities</h1>
+
 <h2>🧠 Purpose</h2>
-<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
-<h2>📋 Channels List</h2>
+<p>Curated directory of cybersecurity research, threat intelligence, ethical hacking, bug bounty, and digital forensics Discord communities for <b>SOCMINT Monitoring</b>, <b>Threat Researcher Networking</b>, and <b>Intelligence Gathering</b>.</p>
+
+---
+
+<h2>🛡️ Active Discord Communities</h2>
 <table>
   <thead>
     <tr>
-      <th align="left">🌐 Service</th>
-      <th align="left">🔗 Onion Link</th>
+      <th align="left">🌐 Community / Server</th>
+      <th align="left">🔗 Discord Link</th>
       <th align="center">📡 Status</th>
-      <th align="left">📌 Description</th>
+      <th align="left">📌 Intelligence Scope & Description</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>Coolsite</td><td><code>6osydz3blmetctlzkdiiaxlcccs7wfy2zkvzyxlstdkkgj2pjqkjqgad.onion</code></td><td align="center">200</td></tr>
-    <tr><td>endchan</td><td><code>https://discord.com/invite/ffWabPn</code></td><td align="center">200</td></tr>
-    <tr><td>Hack Theory</td><td><code>https://discord.com/channels/1138548626491199519/1158090474331066429</code></td><td align="center">200</td></tr>
-    <tr><td>Meta4Sec</td><td><code>https://discord.com/channels/941942387813539850/941942388287492188/1304262586337984572</code></td><td align="center">200</td></tr>
-    <tr><td>Spyboy Cybersec</td><td><code>https://discord.com/channels/726495265330298973/819989744871669810/819991758426472449</code></td><td align="center">200</td></tr>
-    <tr><td>Hack This Site</td><td><code>https://discord.com/channels/193774599719223297/971770945306001408</code></td><td align="center">200</td></tr>
-    <tr><td>Major League hacking</td><td><code>https://discord.com/channels/688852585071116289/722911724952485949</code></td><td align="center">200</td></tr>
-    <tr><td>Odili Heavy Industries</td><td><code>https://discord.com/channels/284814487348051979/284814487348051979</code></td><td align="center">200</td></tr>
-    <tr><td>OfficialhackmyVm</td><td><code>https://discord.com/channels/756601039053914243/1262674737528836098</code></td><td align="center">N/A</td></tr>
-    <tr><td>Hacker gang</td><td><code>https://discord.com/channels/882596103629983745/891354502391820348</code></td><td align="center">N/A</td></tr>
-    <tr><td>Bounty Hunters</td><td><code>https://discord.com/channels/559875483295154188/662378446982217728</code></td><td align="center">N/A</td></tr>
-    <tr><td>Coolsite</td><td><code>https://discord.com/channels/1172911636969955348/1172943902144204812</code></td><td align="center">N/A</td></tr>
-    <tr><td>LolzTeam</td><td><code>https://discord.com/invite/lzt</code></td><td align="center">200</td></tr>
-    <tr><td>Major League Hacking Community</td><td><code>https://discord.com/invite/mlh</code></td><td align="center">200</td></tr>
-    <tr><td>David Bombal</td><td><code>https://discord.com/channels/730059716931223613/channel-browser</code></td><td align="center">200</td></tr>
-    <tr><td>Network Chunk</td><td><code>https://discord.com/channels/602614977806729216/602967528628813824</code></td><td align="center">200</td></tr>
-    <tr><td>Insider Pride</td><td><code>https://discord.com/channels/673639066822115369/758320741023350865</code></td><td align="center">200</td></tr>
-    <tr><td>Nahamsec</td><td><code>https://discord.com/channels/598608711186907146/598608711186907150</code></td><td align="center">200</td></tr>
-    <tr><td>Tib3rius</td><td><code>https://discord.com/channels/683163342982217728/channel-browser</code></td><td align="center">200</td></tr>
-    <tr><td>Red Team Village</td><td><code>https://discord.com/channels/695528910284390400/customize-community</code></td><td align="center">200</td></tr>
-    <tr><td>BlackatAk</td><td><code>https://discord.com/invite/gWvJWSBfmQ</code></td><td align="center">200</td></tr>
-    <tr><td>Abyss chat</td><td><code>https://discord.com/invite/yyGJKXqUF6</code></td><td align="center">N/A</td></tr>
-    <tr><td>Dark Forum</td><td><code>https://discord.com/channels/1371093150336159877/1371093384500088886</code></td><td align="center">200</td></tr>
-
+    <tr><td><b>Red Team Village</b></td><td><code>https://discord.com/channels/695528910284390400/</code></td><td align="center">200</td><td>DEF CON Red Team Village official community focusing on adversary emulation, C2, and offensive tradecraft.</td></tr>
+    <tr><td><b>NahamSec</b></td><td><code>https://discord.com/channels/598608711186907146/</code></td><td align="center">200</td><td>Top bug bounty hunting and web reconnaissance community run by security researcher NahamSec.</td></tr>
+    <tr><td><b>Tib3rius</b></td><td><code>https://discord.com/channels/683163342982217728/</code></td><td align="center">200</td><td>Privilege escalation, OSCP preparation, exploit analysis, and offensive security research.</td></tr>
+    <tr><td><b>Hack This Site (HTS)</b></td><td><code>https://discord.com/channels/193774599719223297/</code></td><td align="center">200</td><td>Classic security and ethical hacking community hosting web exploitation and CTF discussions.</td></tr>
+    <tr><td><b>David Bombal</b></td><td><code>https://discord.com/channels/730059716931223613/</code></td><td align="center">200</td><td>Ethical hacking, network engineering, Wireshark packet analysis, and Python automation.</td></tr>
+    <tr><td><b>NetworkChuck</b></td><td><code>https://discord.com/channels/602614977806729216/</code></td><td align="center">200</td><td>Hands-on cybersecurity, cloud infrastructure, Linux systems, and hacking tutorials.</td></tr>
+    <tr><td><b>Major League Hacking (MLH)</b></td><td><code>https://discord.com/invite/mlh</code></td><td align="center">200</td><td>Student and researcher hackathon community with security challenges and software engineering tracks.</td></tr>
+    <tr><td><b>Official HackMyVM</b></td><td><code>https://discord.com/channels/756601039053914243/</code></td><td align="center">200</td><td>Vulnerable lab machines, CTF writeups, binary exploitation, and penetration testing walkthroughs.</td></tr>
+    <tr><td><b>Bounty Hunters</b></td><td><code>https://discord.com/channels/559875483295154188/</code></td><td align="center">200</td><td>Bug bounty disclosure discussions, recon methodology, automation tools, and CVE reproduction.</td></tr>
+    <tr><td><b>Spyboy Cybersec</b></td><td><code>https://discord.com/channels/726495265330298973/</code></td><td align="center">200</td><td>Cybersecurity news, penetration testing tool showcases, and Android/Linux security.</td></tr>
+    <tr><td><b>Meta4Sec</b></td><td><code>https://discord.com/channels/941942387813539850/</code></td><td align="center">200</td><td>Cyber defense, digital forensics, threat hunting, and SOC analyst resource sharing.</td></tr>
+    <tr><td><b>Hack Theory</b></td><td><code>https://discord.com/channels/1138548626491199519/</code></td><td align="center">200</td><td>Cybersecurity theory, ethical hacking walkthroughs, and security certification study groups.</td></tr>
+    <tr><td><b>LolzTeam (LZT)</b></td><td><code>https://discord.com/invite/lzt</code></td><td align="center">200</td><td>Discord community associated with the Russian underground marketplace LolzTeam.</td></tr>
+    <tr><td><b>Endchan Discord</b></td><td><code>https://discord.com/invite/ffWabPn</code></td><td align="center">200</td><td>Decentralized imageboard and privacy-focused communication community.</td></tr>
+    <tr><td><b>Black Hills Information Security (BHIS)</b></td><td><code>https://discord.com/invite/bhis</code></td><td align="center">200</td><td>World-class threat hunting, pen-testing, adversary tactics, and free security training hub.</td></tr>
+    <tr><td><b>The Cyber Mentor (TCM Security)</b></td><td><code>https://discord.com/invite/tcm</code></td><td align="center">200</td><td>Premier ethical hacking, OSINT, red teaming, and practical penetration testing community.</td></tr>
+    <tr><td><b>InfoSec Prep</b></td><td><code>https://discord.com/invite/infosecprep</code></td><td align="center">200</td><td>Security certification preparation (OSCP, CEH, Security+) and practical CTI learning.</td></tr>
   </tbody>
 </table>

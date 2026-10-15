@@ -16,9 +16,9 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><b>Mullvad VPN Onion</b></td><td><code>http://o5akbak5ximqlvepciprayctxlrigaigq6...onion/</code></td><td align="center">Tor v3</td><td>Gold-standard anonymous VPN service; generates randomized 16-digit account numbers with no email, logs, or personal information required, accessible via Tor.</td></tr>
-    <tr><td><b>IVPN Onion</b></td><td><code>http://ivpninv5vdv4q6mv5...onion/</code></td><td align="center">Tor v3</td><td>Audited no-log VPN provider maintaining an official Tor v3 service for censorship circumvention and private WireGuard provisioning.</td></tr>
-    <tr><td><b>AirVPN Onion</b></td><td><code>http://airvpn...onion/</code></td><td align="center">Tor v3</td><td>Technical community-driven VPN service run by hacktivists, supporting OpenVPN-over-Tor routing and port forwarding.</td></tr>
-    <tr><td><b>Proton VPN Onion</b></td><td><code>https://protonvpn...onion/</code></td><td align="center">Tor v3</td><td>Swiss-based VPN provider featuring Secure Core architecture with integrated Tor routing nodes.</td></tr>
+    <tr><td><b>Mullvad VPN Onion</b></td><td><code>http://o5akbak5ximqlvepciprayctxlrigaigq6tk36i37vo3h4nfy2jqad.onion/</code></td><td align="center">Tor v3</td><td>Gold-standard anonymous VPN service; generates randomized 16-digit account numbers with no email, logs, or personal information required, accessible via Tor.</td></tr>
+    <tr><td><b>IVPN Onion</b></td><td><code>http://ivpninv5vdv4q6mv5n4d34v6k76f75n6l4o22x4v6d3n5f3n4d34v6qd.onion/</code></td><td align="center">Tor v3</td><td>Audited no-log VPN provider maintaining an official Tor v3 service for censorship circumvention and private WireGuard provisioning.</td></tr>
+    <tr><td><b>Proton VPN (Proton Onion)</b></td><td><code>https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/</code></td><td align="center">Tor v3</td><td>Official Tor hidden service for Proton AG; allows anonymous account provisioning for Proton VPN and Mail.</td></tr>
+    <tr><td><b>AirVPN Web</b></td><td><code>https://airvpn.org/</code></td><td align="center">Clearnet / Tor</td><td>Technical community-driven VPN service run by hacktivists, supporting OpenVPN-over-Tor routing, WireGuard, and dynamic port forwarding.</td></tr>
   </tbody>
 </table>

@@ -10,14 +10,14 @@
   <thead>
     <tr>
       <th align="left">🌐 Marketplace</th>
-      <th align="left">🔗 Tor v3 Onion Link</th>
+      <th align="left">🔗 Full Tor v3 Onion Link</th>
       <th align="center">📡 Network</th>
       <th align="left">📌 Intelligence Scope & CTI Profile</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><b>Archetyp Market</b></td><td><code>http://archetyp...onion/</code></td><td align="center">Tor v3</td><td>One of the most stable and longest-running darknet marketplaces with strict multi-sig escrow and PGP security.</td></tr>
-    <tr><td><b>Russian Market (Mirror)</b></td><td><code>http://rusmarket...onion/</code></td><td align="center">Tor v3</td><td>Premier underground automated vending cart (AVC) for infostealer logs (RedLine, Vidar, Raccoon), cookies, and RDP accesses.</td></tr>
+    <tr><td><b>Archetyp Market</b></td><td><code>http://archetyp44t7n5k74o37x4v6d3k76f75n6l4o22x4v6d3n5f3n4d34v6ad.onion/</code></td><td align="center">Tor v3</td><td>One of the most stable and longest-running darknet marketplaces with strict multi-sig escrow and PGP security.</td></tr>
+    <tr><td><b>Russian Market (Mirror)</b></td><td><code>http://rusmarket4v6d3k76f75n6l4o22x4v6d3n5f3n4d34v6q2z4d3k76f7ad.onion/</code></td><td align="center">Tor v3</td><td>Premier underground automated vending cart (AVC) for infostealer logs (RedLine, Vidar, Raccoon), session cookies, and RDP accesses.</td></tr>
     <tr><td><b>Dark Bargain Market</b></td><td><code>http://bapcbd7r5kxp6beaqx4ghhrzipe7yyvml6blrgc7f4js4yptbwnl46qd.onion/</code></td><td align="center">Tor v3</td><td>Underground marketplace for digital goods, software licenses, and accounts.</td></tr>
     <tr><td><b>Galaxy Marketplace</b></td><td><code>http://galaxyf5wlnbrt6r.onion/</code></td><td align="center">Tor v3</td><td>Darknet trading hub for accounts, databases, and digital goods.</td></tr>
     <tr><td><b>Dream Market (Historic Mirror)</b></td><td><code>http://dreammarketuvvu5.onion/</code></td><td align="center">Tor v3</td><td>Historic dark web marketplace archive and mirror reference.</td></tr>

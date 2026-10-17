@@ -72,19 +72,6 @@ CounterIntelCTI/
 └── README.md
 ```
 
----
-
-# ⚡ Automated Tor Link Verifier
-
-For the `.onion` links in `DARKINT/`, run the automated link checker using an active Tor SOCKS proxy:
-
-```powershell
-python check_darkint_tor.py
-```
-*(Requires Tor Browser or Tor service running on `localhost:9050` or `localhost:9150`)*
-
----
-
 # 🎯 Objectives
 
 - Build a centralized, deduplicated, and verified CTI knowledge base
